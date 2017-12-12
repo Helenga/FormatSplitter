@@ -1,0 +1,9 @@
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\bin\Debug\netstandard2.0\FormatSplitterCore.deps.json
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\bin\Debug\netstandard2.0\FormatSplitterCore.dll
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\bin\Debug\netstandard2.0\FormatSplitterCore.pdb
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\obj\Debug\netstandard2.0\FormatSplitterCore.csprojResolveAssemblyReference.cache
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\obj\Debug\netstandard2.0\FormatSplitterCore.csproj.CoreCompileInputs.cache
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\obj\Debug\netstandard2.0\FormatSplitterCore.AssemblyInfoInputs.cache
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\obj\Debug\netstandard2.0\FormatSplitterCore.AssemblyInfo.cs
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\obj\Debug\netstandard2.0\FormatSplitterCore.dll
+C:\Users\UserNK\Desktop\FormatSplitter\FormatSplitterCore\obj\Debug\netstandard2.0\FormatSplitterCore.pdb
